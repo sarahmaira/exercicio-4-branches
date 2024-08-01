@@ -1,5 +1,5 @@
 desenho = """
-PATRONO DE SNAPE
+PATRONO DE lily
                        .     _,
                        |`\__/ /
                        \  . .(
